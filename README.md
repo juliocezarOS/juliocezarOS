@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">I am Julio and I'm a dev from Brazil</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left"><br>📚 I'm currently studying Informations Systems on UEG(Universidade Estadual de Goiás)</p>
 
 ###
 
